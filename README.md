@@ -1,2 +1,2 @@
 # NewPortfoliojz
-Website where people can contact to me and se my work. 
+Website where people can contact to me and check my work. 
